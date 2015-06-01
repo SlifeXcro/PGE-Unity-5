@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{0EA63A36-3BFA-881B-73CD-425F801C051A}") = "FYP2_Framework - Battle Scroller", "Assembly-CSharp.csproj", "{2A5A6C07-32F5-5F3C-6EC8-62779826D10C}"
 EndProject
+Project("{0EA63A36-3BFA-881B-73CD-425F801C051A}") = "FYP2_Framework - Battle Scroller", "Assembly-CSharp-Editor.csproj", "{4A5BCE38-C202-1B52-F285-391DB80DE79E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,15 @@ Global
 		{2A5A6C07-32F5-5F3C-6EC8-62779826D10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A5A6C07-32F5-5F3C-6EC8-62779826D10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A5A6C07-32F5-5F3C-6EC8-62779826D10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5BCE38-C202-1B52-F285-391DB80DE79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5BCE38-C202-1B52-F285-391DB80DE79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5BCE38-C202-1B52-F285-391DB80DE79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5BCE38-C202-1B52-F285-391DB80DE79E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																					GlobalSection(MonoDevelopProperties) = preSolution
+																																	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

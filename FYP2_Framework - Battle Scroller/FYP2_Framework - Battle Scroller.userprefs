@@ -1,15 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Framework\UserTouch.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Characters\Enemies\Blob.cs">
     <Files>
-      <File FileName="Assets\Scripts\Characters\Base Unit\Unit.cs" Line="96" Column="3" />
-      <File FileName="Assets\Scripts\Characters\Enemies\Blob.cs" Line="17" Column="23" />
-      <File FileName="Assets\Scripts\Characters\Enemies\Enemy.cs" Line="13" Column="6" />
-      <File FileName="Assets\Scripts\Combat\Attacks\Attack_Kick_Combo.cs" Line="25" Column="29" />
-      <File FileName="Assets\Scripts\Combat\Attacks\Attack_Combo_Multi.cs" Line="18" Column="1" />
-      <File FileName="Assets\Scripts\Characters\Base Unit\Movement.cs" Line="142" Column="22" />
-      <File FileName="Assets\Scripts\Framework\UserTouch.cs" Line="40" Column="38" />
-      <File FileName="Assets\Scripts\Environment\TileScript.cs" Line="51" Column="10" />
+      <File FileName="Assets\Scripts\Characters\Enemies\DarkWolf.cs" Line="17" Column="23" />
+      <File FileName="Assets\Scripts\Characters\Enemies\Blob.cs" Line="10" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
